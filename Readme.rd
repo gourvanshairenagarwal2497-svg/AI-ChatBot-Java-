@@ -148,6 +148,8 @@ Bot : Goodbye! Have a nice day.
 
 ---
 ## 📸 Screenshot
+<img width="732" height="611" alt="Image" src="https://github.com/user-attachments/assets/b596a42e-cf49-4559-a949-519fc7a08394" />
+
 
 ## 🎯 Learning Outcomes
 
