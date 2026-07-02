@@ -147,7 +147,9 @@ Bot : Goodbye! Have a nice day.
 ```
 
 ---
+## 📸 Screenshot
 
+![AI ChatBot](screenshot/chatbot.png)
 
 - Java GUI Development using Swing
 - Object-Oriented Programming Concepts
